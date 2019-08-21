@@ -1,6 +1,13 @@
 {
   "name": "conflux-bounty",
   "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build"
+    },
+    { "src": "dist/**/*", "use": "@now/static" }
+  ],
   "routes": [
     {
       "src": "/api",
