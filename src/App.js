@@ -95,5 +95,3 @@ function mapStateToProps(state) {
   };
 }
 export default connect(mapStateToProps)(App);
-
-console.log('haha');
