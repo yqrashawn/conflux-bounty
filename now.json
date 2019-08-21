@@ -1,3 +1,15 @@
 {
-  "name": "conflux-bounty"
+  "name": "conflux-bounty",
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api",
+      "dest": "http://bountytest.conflux-chain.org/api"
+    }
+  ],
+  "github": {
+    "enabled": true,
+    "autoAlias": false,
+    "silent": false
+  }
 }
