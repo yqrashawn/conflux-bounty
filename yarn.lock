@@ -1505,10 +1505,10 @@ ajv@^6.1.0, ajv@^6.5.5, ajv@^6.9.1:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-ali-oss@^6.1.1:
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/ali-oss/-/ali-oss-6.1.1.tgz#1a310a27a6070571a493e73a015a82656217e0df"
-  integrity sha512-+BKZlX/+aPjFF8al0fS5j93ynWlKy779p/i1nVxElUjyQA457ccbhoQTUKL6cbr8EMetIAUHnhS9XTI4RgW1PA==
+ali-oss@^6.5.1:
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/ali-oss/-/ali-oss-6.5.1.tgz#e1461e9e4d4f6a01686cd94e4617350702576f2b"
+  integrity sha512-dnKL35PyotYfS0+Dcll1DKyQy7u+f5mOI2uBQ3Ndp1+j/gzE0y104QsCEyeXbMaNNZm+1WL8NL4KEnOMbzwYfQ==
   dependencies:
     address "^1.0.0"
     agentkeepalive "^3.4.1"
